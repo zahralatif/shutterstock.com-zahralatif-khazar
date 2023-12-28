@@ -1,7 +1,7 @@
 Project Details:
  - Course: Web Programming 1
  - Project: Attached Design template (Coding)
- - Deadline: December 22, 2023, at 23:59
+ - Deadline: December 28, 2023, at 23:59
 
 Screenshot of Project should be created: 
 [preview_61-shutterstock](/assets/images/preview_61-shutterstock.png)
